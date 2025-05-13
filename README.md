@@ -1,9 +1,6 @@
 # 🕶️ Smart Specs for the Deaf
 
 **Smart Spectacles that display real-time subtitles on a transparent lens using speech-to-text technology — designed to empower the Deaf and Hard-of-Hearing.**
-
-![Hero Image Placeholder](https://via.placeholder.com/800x300.png?text=Smart+Specs+for+the+Deaf)
-
 ---
 
 ## 🌟 Overview
@@ -14,7 +11,7 @@
 
 ## 🎯 Features
 
-- ✅ **Offline Speech-to-Text** using Whisper.cpp or Vosk  
+- ✅ **Offline Speech-to-Text** using Wav2Vec2 Through HuggingFace
 - 🖥️ **Transparent OLED Display Output** for in-glass captions  
 - 🎤 **Real-Time Audio Capture** via onboard microphone  
 - 💬 **Minimalist UI** for clear and readable subtitles  
